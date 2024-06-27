@@ -1,0 +1,32 @@
+{"file_name": "predict_G8_PA11"}
+{"file_path": "/root/Spine/Spine/Spine_segmentation/nnUnet_CTSpine1K/data/nnUNet_raw_data_base/nnUNet_raw_data/Task056_VerSe/result_stage2/seg/predict_G8_PA11"}
+{"spine_id": "18"}
+{"slice_num": 443}
+{"density": 185.09294843926614}
+{"sum_of_intensity_in_this_id": 2128754.0}
+{"pixel_num_in_this_id": 11501}
+"--------------------------------------------------------"
+{"file_name": "predict_G8_PA11"}
+{"file_path": "/root/Spine/Spine/Spine_segmentation/nnUnet_CTSpine1K/data/nnUNet_raw_data_base/nnUNet_raw_data/Task056_VerSe/result_stage2/seg/predict_G8_PA11"}
+{"spine_id": "19"}
+{"slice_num": 443}
+{"density": 190.91513959889895}
+{"sum_of_intensity_in_this_id": 2427486.0}
+{"pixel_num_in_this_id": 12715}
+"--------------------------------------------------------"
+{"file_name": "predict_G8_PA11"}
+{"file_path": "/root/Spine/Spine/Spine_segmentation/nnUnet_CTSpine1K/data/nnUNet_raw_data_base/nnUNet_raw_data/Task056_VerSe/result_stage2/seg/predict_G8_PA11"}
+{"spine_id": "20"}
+{"slice_num": 443}
+{"density": 183.9456699955284}
+{"sum_of_intensity_in_this_id": 2468183.0}
+{"pixel_num_in_this_id": 13418}
+"--------------------------------------------------------"
+{"file_name": "predict_G8_PA11"}
+{"file_path": "/root/Spine/Spine/Spine_segmentation/nnUnet_CTSpine1K/data/nnUNet_raw_data_base/nnUNet_raw_data/Task056_VerSe/result_stage2/seg/predict_G8_PA11"}
+{"spine_id": "21"}
+{"slice_num": 443}
+{"density": 196.6344936708861}
+{"sum_of_intensity_in_this_id": 2982552.0}
+{"pixel_num_in_this_id": 15168}
+"--------------------------------------------------------"

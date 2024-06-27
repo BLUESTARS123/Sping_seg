@@ -1,0 +1,1 @@
+对比实验：比较机器学习方法，gth，人工切片三种方法在三节脊柱平均的密度、流失比例以及诊断归类。输出xlsx  `result_cancellous_with_mean_3.xlsx`
